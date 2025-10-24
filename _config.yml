@@ -5,5 +5,4 @@ relative_links:
   collections: true
 include:
   - README.md
-remote_theme: pages-themes/leap-day@v0.2.0
-title: [Python Tutorial Workshop-2018]
+remote_theme: jekyll/minima@1e8a445
