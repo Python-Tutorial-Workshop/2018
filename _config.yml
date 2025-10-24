@@ -3,8 +3,11 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
 minima:
-  nav_pages:
+  header_pages:
     - README.md
   show_excerpts: false
   hide_site_feed_link: true
