@@ -1,8 +1,12 @@
+title: Python Tutorial Workshop - 2018
+author:
+  name: MarsW
+  email: colab@marsw.tw
+theme: minima
 plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
-remote_theme: jekyll/minima@1e8a445
+  - jekyll-feed
+  - jekyll-seo-tag
+minima:
+  nav_pages:
+    - README.md
+
