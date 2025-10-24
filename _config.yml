@@ -1,14 +1,5 @@
 title: Python Tutorial Workshop - 2018
-theme: minima
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-sass:
-  quiet_deps: true
-  silence_deprecations: [import]
-minima:
-  header_pages:
-    - README.md
-  show_excerpts: false
-  hide_site_feed_link: true
-
+  - jekyll-remote-theme
+show_downloads: false
