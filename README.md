@@ -14,7 +14,7 @@ Mars 在 PyLadies 持續講授 Python 入門時，
 
 ## 章節
 - Day 1 上午
-  - [程式 與 Python 簡介](https://python-tutorial-workshop.github.io/2018/00_intro.slides.html#/)
+  - [程式 與 Python 簡介](./00_intro.slides.html#/)
   - [常見物件與輸入輸出](https://python-tutorial-workshop.github.io/2018/01_basicObject_IO.slides.html#/)
   - [判斷式](https://python-tutorial-workshop.github.io/2018/02_conditional.slides.html#/)
 - Day 1 下午
